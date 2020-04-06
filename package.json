@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "enquirer": "^2.3.4",
+    "jsdom": "^16.2.2",
+    "markdown-it": "^10.0.0",
+    "markdown-it-anchor": "^5.2.7"
+  }
+}
