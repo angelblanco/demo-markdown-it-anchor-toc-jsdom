@@ -8,6 +8,8 @@ yarn install
 yarn demo
 ```
 
+![Demo](https://raw.githubusercontent.com/angelblanco/demo-markdown-it-anchor-toc-jsdom/master/demo.gif)
+
 ## Note
 This is a demo on how to get a toc from a dom node usin Javascript and not a package. One of the usages of this approach could be to render the TOC using a custom component with your template library.
 
