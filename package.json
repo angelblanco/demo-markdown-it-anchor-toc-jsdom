@@ -5,7 +5,7 @@
   "devDependencies": {
     "chalk": "^4.0.0",
     "enquirer": "^2.3.4",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.2.7"
   }
